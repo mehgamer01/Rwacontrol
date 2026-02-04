@@ -1,1 +1,14 @@
-
+{
+  "approved_devices": [
+    "3371eeb5a69ab2b1",
+    "xyz456deviceid"
+  ],
+  "blocked_devices": [
+    "blocked111device",
+    "blocked222device"
+  ],
+  "messages": {
+    "not_approved": "Your device is not approved. Please contact admin.",
+    "blocked": "Your device has been blocked by admin."
+  }
+}
