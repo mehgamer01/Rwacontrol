@@ -1,3 +1,16 @@
 {
-  "allowed_url": "https://rwa-vipstudy.vercel.app/batches/515"
+  "batches": [
+    {
+      "name": "Batch 515",
+      "url": "https://rwa-vipstudy.vercel.app/batches/515"
+    },
+    {
+      "name": "Batch 516",
+      "url": "https://rwa-vipstudy.vercel.app/batches/516"
+    },
+    {
+      "name": "Maths Special",
+      "url": "https://rwa-vipstudy.vercel.app/batches/520"
+    }
+  ]
 }
